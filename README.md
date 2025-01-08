@@ -2,7 +2,8 @@
 
 ## 🌟 Overview
 HindiShayak is an advanced deep-learning model focused on correcting grammatical errors in Hindi text. Developed as a part of a master's project at NIT Trichy, this tool aims to bridge the gap in NLP for Hindi by ensuring accurate, context-aware corrections for this rich and diverse language.
-
+## DataSet Link :-
+https://www.kaggle.com/datasets/disisbig/hindi-wikipedia-articles-172k
 ## 🚀 Key Features
 #### Deep Learning-Powered: Built on a custom encoder-decoder architecture with Bidirectional LSTMs and attention mechanisms.
 #### Comprehensive Dataset: Trained on 172,000 Hindi articles sourced from Wikipedia.
