@@ -30,4 +30,4 @@ Unseen Data Accuracy	79.00%
 #### Multilingual Support: Extend to other Indic languages like Tamil, Telugu, and Bengali.
 #### Low-Resource Accessibility: Optimize for deployment on resource-constrained devices.
 ## 📄 About the Author
-Developed by Deepak Gangwar as part of the Master of Computer Applications program at National Institute of Technology, Tiruchirappalli.
+Developed by Deepak Gangwar as part of the Master of Computer Science program at National Institute of Technology, Tiruchirappalli.
